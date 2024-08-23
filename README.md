@@ -1,3 +1,2 @@
 # -falta-de-higiene-
-vamos falar sobre a falta de higiene que existe e alguns lugares de cabo verde como por exemplo os banheiros publico , la ele esta sempre muito sujo , a nossa proposta é  criar um site a onde as pessoas possa reclamar e vai
-cair essas reclamaçoes direto no 
+vamos falar sobre a falta de higiene que existe em alguns lugares de cabo verde como por exemplo, os banheiros públicos da praça, e para dar uma solução, eu e minha dupla resolvemos criar um aplicativo que lá a população de Cabo Verde possa entrar e fazer as denuncia ,essa denúncia ira cair direto no computador da vigilância sanitária e do prefeito , lá eles irão mandar uma pessoa para resolver o problema.
